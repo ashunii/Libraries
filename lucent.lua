@@ -10,7 +10,7 @@ export type Services = {
 };
 
 local Lucent = {
-	Version = 'Library 1.4-Lucent, By yoaei'
+	Version = 'Lucent, By yoaei'
 };
 local verlib = Lucent.Version
 print(verlib)
